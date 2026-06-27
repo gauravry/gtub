@@ -5,3 +5,6 @@ I am learning Git using my GitHub account.
 
 ## Lesson 2
 I learned how to edit a file, inspect changes, commit, and push.
+
+## Lesson 2
+I learned how to edit a file, inspect changes, commit, and push.
